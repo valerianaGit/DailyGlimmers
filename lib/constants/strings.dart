@@ -1,0 +1,1 @@
+const kAppTitle = 'Daily Glimmers';
